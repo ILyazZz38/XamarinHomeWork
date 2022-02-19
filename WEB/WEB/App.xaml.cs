@@ -2,7 +2,7 @@
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace JsonApp1
+namespace WEB
 {
     public partial class App : Application
     {
